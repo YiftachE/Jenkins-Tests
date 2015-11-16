@@ -31,5 +31,11 @@ namespace UnitTests
             HttpData data = new HttpData();
             Assert.IsTrue(true);
         }
+        [TestMethod]
+        public void TestMethod5()
+        {
+            HttpData data = new HttpData();
+            Assert.IsTrue(true);
+        }
     }
 }
